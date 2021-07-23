@@ -9,3 +9,8 @@ I think I should use git and Git hub more frequently to improve my performance a
 this  may help me to understand my projects properly and it will make me to complete project on time
 
  I have created a demo file
+
+##Local Development
+
+1.Open index.html in your browser
+ 
