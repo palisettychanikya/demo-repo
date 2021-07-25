@@ -1,8 +1,8 @@
-#demo
+##demo
 
 this is a demo test readme file
 
-## My git exercise
+### My git exercise
 this message is written from local machine
 
 I think I should use git and Git hub more frequently to improve my performance and to get use to Git hub projects
@@ -10,7 +10,6 @@ this  may help me to understand my projects properly and it will make me to comp
 
  I have created a demo file
 
-##Local Development
+###Local Development
 
 1.Open index.html in your browser
- 
